@@ -1,0 +1,15 @@
+{
+  "short_name": "Ada",
+  "name": "Ada - AI Beauty Architect",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#E1FF00",
+  "background_color": "#FFFFFF"
+}
